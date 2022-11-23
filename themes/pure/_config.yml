@@ -1,0 +1,41 @@
+favicon: https://media.discordapp.net/attachments/837838734039711794/1044848690239647744/brick.png
+avatar: https://ctftime.org/media/cache/23/ae/23ae53fe2573d340657329bba4ecdd3a.jpg
+katex: false
+force_https: true
+check_update: true
+
+menus:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Tags
+    link: /tags/
+  - name: Connect
+    link: /connect/
+post:
+  feature: true
+disqus:
+  enable: false
+  shortname: 'Your shortname here'
+  api: 'Your api here'
+  apikey: 'Your api key here'
+  admin: 'Your disqus username here'
+gitalk:
+  enable: false
+  clientId: 'Your Client Id here'
+  clientSecret: 'Your Client Secret here'
+  repository: 'Your Comment Repository here'
+  owner: 'Your github username here'
+valine:
+  enable: false
+  appId: 'Your appID here'
+  appKey: 'Your appKey here'
+  placeholder: 'Your placeholder here'
+  pageSize: 10
+web_analytics:
+  enable: false
+  google: UA-12345678-1
+  baidu: 12345678
+footer: |
+  Footer HTML
