@@ -1,7 +1,10 @@
 ---
 title: Writeup - Odd Shell (UIUCTF 2022)
-date: 2022-11-20 21:46:09
-tags: test
+date: 2022-08-04 00:00:00
+tags: 
+- writeup
+- pwn
+- uiuctf2022
 ---
 
 # UIUCTF 2022 - Odd Shell Writeup
@@ -108,7 +111,7 @@ add    r9d,0x3b          # (41 83 c1 3b) --> add rax,0x3b (48 83 c0 3b)
 syscall
 ```
 
-I then put this shellcode into a Python script with pwntools ([odd.py](odd.py)) and ran it! Results:
+I then put this shellcode into a Python script with pwntools ([odd.py](/static/uiuctf-oddshell/odd.py)) and ran it! Results:
 
 ```bash
 $ python3 odd.py REMOTE

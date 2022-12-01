@@ -9,8 +9,8 @@ menus:
     link: /
   - name: About
     link: /about/
-  - name: Tags
-    link: /tags/
+  - name: Resume
+    link: /resume/
   - name: Connect
     link: /connect/
 post:
@@ -38,4 +38,4 @@ web_analytics:
   google: UA-12345678-1
   baidu: 12345678
 footer: |
-  Footer HTML
+  I take no responsibility for anything on this site because that's too much work
