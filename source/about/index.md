@@ -19,6 +19,7 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Soccer
 
 # Qualifications
+* Filed 1 CVE
 * Placed 1st in DEFCON30's AppSecVillage CTF
 * Placed 2nd in SAINTCON's 2022 Hackers Challenge
 * Placed 5th in NCL's Individual CTF (Fall 2022) out of 6675 participants

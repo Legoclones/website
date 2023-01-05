@@ -3,7 +3,7 @@ title: Writeup - SEMIRC LASREVER (ASVCTF 2022)
 date: 2022-08-20 00:00:00
 tags: 
 - writeup
-- web
+- rev
 - asvctf2022
 ---
 
