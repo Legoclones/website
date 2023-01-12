@@ -3,8 +3,11 @@ title: How to Connect
 ---
 
 # Connect with me through...
-* [justink.applegate@gmail.com](mailto:justink.applegate@gmail.com)
+* justink dot applegate [at] gmail[.]com
 * [LinkedIn (Justin Applegate)](https://www.linkedin.com/in/justin-applegate-b23676139/)
 * [GitHub (Legoclones)](https://github.com/Legoclones?tab=repositories)
 * [Twitter (Legoclones)](https://twitter.com/legoclones)
+* [Huntr.dev (Legoclones)](https://huntr.dev/users/legoclones/)
+* [HackerOne (Legoclones)](https://hackerone.com/legoclones?type=user)
+* [CTFTime.org (Legoclones)](https://ctftime.org/user/110568)
 * Anywhere else you can find me :) 

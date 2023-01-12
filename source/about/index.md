@@ -19,14 +19,14 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Soccer
 
 # Qualifications
-* Filed 1 CVE
-* Placed 1st in DEFCON30's AppSecVillage CTF
+* Published 1 CVE (CVE-2022-4271)
+* Placed 1st in DEFCON 30's AppSecVillage CTF
 * Placed 2nd in SAINTCON's 2022 Hackers Challenge
 * Placed 5th in NCL's Individual CTF (Fall 2022) out of 6675 participants
 * Placed 7th in NCL's Team CTF (Fall 2022) out of 3926 teams
 * Placed 2nd in the At-Large Region of Global CPTC 2022/2023, [advanced to Finals](https://twitter.com/globalcptc/status/1598101562915692545)
 * Placed in top 2% of Hivestorm 2022
 * Placed in top 2% of HacktivityCon CTF 2021
-* Participated in over 40 CTFs since 2020
+* Participated in over 45 CTFs since 2020
 
 To see more, visit my [resume page](/resume).
