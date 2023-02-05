@@ -32,8 +32,7 @@ Initially, you are only provided two files - a [Dockerfile](/static/bi0sctf-pycg
 
 ```dockerfile
 FROM ubuntu
-RUN apt-get -y update && DEBIAN_FRONTEND="noninteractive" TZ="Asia/Kolkata" \
-apt-get -y -q install nginx apache2-utils spawn-fcgi fcgiwrap python3 python3-pip
+RUN apt-get -y update && DEBIAN_FRONTEND="noninteractive" TZ="Asia/Kolkata" apt-get -y -q install nginx apache2-utils spawn-fcgi fcgiwrap python3 python3-pip
 EXPOSE 80/tcp
 
 RUN ["pip3", "install", "pandas"]
@@ -182,7 +181,7 @@ boot
 dev
 docker-entrypoint.sh
 ...
-$ curl http://instance.chall.bi0s.in:10064/static../9753555db7ed1df9...32cf442f767382
+$ curl http://instance.chall.bi0s.in:10064/static../9753555db7ed1df995555128ae32cf442f767382
 bi0sctf{9a18559a42e7302b15eeb45c09ab39d6}
 ```
 

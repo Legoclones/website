@@ -49,7 +49,7 @@ ls
 cd com.hammerandchisel.discord/
 ls
 exit
-cd ../mobile/Containers/Data/Application/AA7D...198B/Library/Application\ Support/
+cd ../mobile/Containers/Data/Application/AA7DB282-D12B-4FB1-8DD2-F5FEF3E3198B/Library/Application\ Support/
 rm webssh.db 
 exit
 ```

