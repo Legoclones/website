@@ -1,0 +1,1002 @@
+    0: \x80 PROTO      5
+    2: X    BINUNICODE '0'
+    8: \x94 MEMOIZE    (as 0)
+    9: 0    POP
+   10: X    BINUNICODE '1'
+   16: \x94 MEMOIZE    (as 1)
+   17: 0    POP
+   18: X    BINUNICODE '2'
+   24: \x94 MEMOIZE    (as 2)
+   25: 0    POP
+   26: X    BINUNICODE '3'
+   32: \x94 MEMOIZE    (as 3)
+   33: 0    POP
+   34: X    BINUNICODE '4'
+   40: \x94 MEMOIZE    (as 4)
+   41: 0    POP
+   42: X    BINUNICODE '5'
+   48: \x94 MEMOIZE    (as 5)
+   49: 0    POP
+   50: X    BINUNICODE '6'
+   56: \x94 MEMOIZE    (as 6)
+   57: 0    POP
+   58: X    BINUNICODE '7'
+   64: \x94 MEMOIZE    (as 7)
+   65: 0    POP
+   66: X    BINUNICODE '8'
+   72: \x94 MEMOIZE    (as 8)
+   73: 0    POP
+   74: X    BINUNICODE '9'
+   80: \x94 MEMOIZE    (as 9)
+   81: 0    POP
+   82: X    BINUNICODE 'a'
+   88: \x94 MEMOIZE    (as 10)
+   89: 0    POP
+   90: X    BINUNICODE 'b'
+   96: \x94 MEMOIZE    (as 11)
+   97: 0    POP
+   98: X    BINUNICODE 'c'
+  104: \x94 MEMOIZE    (as 12)
+  105: 0    POP
+  106: X    BINUNICODE 'd'
+  112: \x94 MEMOIZE    (as 13)
+  113: 0    POP
+  114: X    BINUNICODE 'e'
+  120: \x94 MEMOIZE    (as 14)
+  121: 0    POP
+  122: X    BINUNICODE 'f'
+  128: \x94 MEMOIZE    (as 15)
+  129: 0    POP
+  130: X    BINUNICODE 'g'
+  136: \x94 MEMOIZE    (as 16)
+  137: 0    POP
+  138: X    BINUNICODE 'h'
+  144: \x94 MEMOIZE    (as 17)
+  145: 0    POP
+  146: X    BINUNICODE 'i'
+  152: \x94 MEMOIZE    (as 18)
+  153: 0    POP
+  154: X    BINUNICODE 'j'
+  160: \x94 MEMOIZE    (as 19)
+  161: 0    POP
+  162: X    BINUNICODE 'k'
+  168: \x94 MEMOIZE    (as 20)
+  169: 0    POP
+  170: X    BINUNICODE 'l'
+  176: \x94 MEMOIZE    (as 21)
+  177: 0    POP
+  178: X    BINUNICODE 'm'
+  184: \x94 MEMOIZE    (as 22)
+  185: 0    POP
+  186: X    BINUNICODE 'n'
+  192: \x94 MEMOIZE    (as 23)
+  193: 0    POP
+  194: X    BINUNICODE 'o'
+  200: \x94 MEMOIZE    (as 24)
+  201: 0    POP
+  202: X    BINUNICODE 'p'
+  208: \x94 MEMOIZE    (as 25)
+  209: 0    POP
+  210: X    BINUNICODE 'q'
+  216: \x94 MEMOIZE    (as 26)
+  217: 0    POP
+  218: X    BINUNICODE 'r'
+  224: \x94 MEMOIZE    (as 27)
+  225: 0    POP
+  226: X    BINUNICODE 's'
+  232: \x94 MEMOIZE    (as 28)
+  233: 0    POP
+  234: X    BINUNICODE 't'
+  240: \x94 MEMOIZE    (as 29)
+  241: 0    POP
+  242: X    BINUNICODE 'u'
+  248: \x94 MEMOIZE    (as 30)
+  249: 0    POP
+  250: X    BINUNICODE 'v'
+  256: \x94 MEMOIZE    (as 31)
+  257: 0    POP
+  258: X    BINUNICODE 'w'
+  264: \x94 MEMOIZE    (as 32)
+  265: 0    POP
+  266: X    BINUNICODE 'x'
+  272: \x94 MEMOIZE    (as 33)
+  273: 0    POP
+  274: X    BINUNICODE 'y'
+  280: \x94 MEMOIZE    (as 34)
+  281: 0    POP
+  282: X    BINUNICODE 'z'
+  288: \x94 MEMOIZE    (as 35)
+  289: 0    POP
+  290: X    BINUNICODE 'A'
+  296: \x94 MEMOIZE    (as 36)
+  297: 0    POP
+  298: X    BINUNICODE 'B'
+  304: \x94 MEMOIZE    (as 37)
+  305: 0    POP
+  306: X    BINUNICODE 'C'
+  312: \x94 MEMOIZE    (as 38)
+  313: 0    POP
+  314: X    BINUNICODE 'D'
+  320: \x94 MEMOIZE    (as 39)
+  321: 0    POP
+  322: X    BINUNICODE 'E'
+  328: \x94 MEMOIZE    (as 40)
+  329: 0    POP
+  330: X    BINUNICODE 'F'
+  336: \x94 MEMOIZE    (as 41)
+  337: 0    POP
+  338: X    BINUNICODE 'G'
+  344: \x94 MEMOIZE    (as 42)
+  345: 0    POP
+  346: X    BINUNICODE 'H'
+  352: \x94 MEMOIZE    (as 43)
+  353: 0    POP
+  354: X    BINUNICODE 'I'
+  360: \x94 MEMOIZE    (as 44)
+  361: 0    POP
+  362: X    BINUNICODE 'J'
+  368: \x94 MEMOIZE    (as 45)
+  369: 0    POP
+  370: X    BINUNICODE 'K'
+  376: \x94 MEMOIZE    (as 46)
+  377: 0    POP
+  378: X    BINUNICODE 'L'
+  384: \x94 MEMOIZE    (as 47)
+  385: 0    POP
+  386: X    BINUNICODE 'M'
+  392: \x94 MEMOIZE    (as 48)
+  393: 0    POP
+  394: X    BINUNICODE 'N'
+  400: \x94 MEMOIZE    (as 49)
+  401: 0    POP
+  402: X    BINUNICODE 'O'
+  408: \x94 MEMOIZE    (as 50)
+  409: 0    POP
+  410: X    BINUNICODE 'P'
+  416: \x94 MEMOIZE    (as 51)
+  417: 0    POP
+  418: X    BINUNICODE 'Q'
+  424: \x94 MEMOIZE    (as 52)
+  425: 0    POP
+  426: X    BINUNICODE 'R'
+  432: \x94 MEMOIZE    (as 53)
+  433: 0    POP
+  434: X    BINUNICODE 'S'
+  440: \x94 MEMOIZE    (as 54)
+  441: 0    POP
+  442: X    BINUNICODE 'T'
+  448: \x94 MEMOIZE    (as 55)
+  449: 0    POP
+  450: X    BINUNICODE 'U'
+  456: \x94 MEMOIZE    (as 56)
+  457: 0    POP
+  458: X    BINUNICODE 'V'
+  464: \x94 MEMOIZE    (as 57)
+  465: 0    POP
+  466: X    BINUNICODE 'W'
+  472: \x94 MEMOIZE    (as 58)
+  473: 0    POP
+  474: X    BINUNICODE 'X'
+  480: \x94 MEMOIZE    (as 59)
+  481: 0    POP
+  482: X    BINUNICODE 'Y'
+  488: \x94 MEMOIZE    (as 60)
+  489: 0    POP
+  490: X    BINUNICODE 'Z'
+  496: \x94 MEMOIZE    (as 61)
+  497: 0    POP
+  498: X    BINUNICODE '!'
+  504: \x94 MEMOIZE    (as 62)
+  505: 0    POP
+  506: X    BINUNICODE '"'
+  512: \x94 MEMOIZE    (as 63)
+  513: 0    POP
+  514: X    BINUNICODE '#'
+  520: \x94 MEMOIZE    (as 64)
+  521: 0    POP
+  522: X    BINUNICODE '$'
+  528: \x94 MEMOIZE    (as 65)
+  529: 0    POP
+  530: X    BINUNICODE '%'
+  536: \x94 MEMOIZE    (as 66)
+  537: 0    POP
+  538: X    BINUNICODE '&'
+  544: \x94 MEMOIZE    (as 67)
+  545: 0    POP
+  546: X    BINUNICODE "'"
+  552: \x94 MEMOIZE    (as 68)
+  553: 0    POP
+  554: X    BINUNICODE '('
+  560: \x94 MEMOIZE    (as 69)
+  561: 0    POP
+  562: X    BINUNICODE ')'
+  568: \x94 MEMOIZE    (as 70)
+  569: 0    POP
+  570: X    BINUNICODE '*'
+  576: \x94 MEMOIZE    (as 71)
+  577: 0    POP
+  578: X    BINUNICODE '+'
+  584: \x94 MEMOIZE    (as 72)
+  585: 0    POP
+  586: X    BINUNICODE ','
+  592: \x94 MEMOIZE    (as 73)
+  593: 0    POP
+  594: X    BINUNICODE '-'
+  600: \x94 MEMOIZE    (as 74)
+  601: 0    POP
+  602: X    BINUNICODE '.'
+  608: \x94 MEMOIZE    (as 75)
+  609: 0    POP
+  610: X    BINUNICODE '/'
+  616: \x94 MEMOIZE    (as 76)
+  617: 0    POP
+  618: X    BINUNICODE ':'
+  624: \x94 MEMOIZE    (as 77)
+  625: 0    POP
+  626: X    BINUNICODE ';'
+  632: \x94 MEMOIZE    (as 78)
+  633: 0    POP
+  634: X    BINUNICODE '<'
+  640: \x94 MEMOIZE    (as 79)
+  641: 0    POP
+  642: X    BINUNICODE '='
+  648: \x94 MEMOIZE    (as 80)
+  649: 0    POP
+  650: X    BINUNICODE '>'
+  656: \x94 MEMOIZE    (as 81)
+  657: 0    POP
+  658: X    BINUNICODE '?'
+  664: \x94 MEMOIZE    (as 82)
+  665: 0    POP
+  666: X    BINUNICODE '@'
+  672: \x94 MEMOIZE    (as 83)
+  673: 0    POP
+  674: X    BINUNICODE '['
+  680: \x94 MEMOIZE    (as 84)
+  681: 0    POP
+  682: X    BINUNICODE '\\'
+  688: \x94 MEMOIZE    (as 85)
+  689: 0    POP
+  690: X    BINUNICODE ']'
+  696: \x94 MEMOIZE    (as 86)
+  697: 0    POP
+  698: X    BINUNICODE '^'
+  704: \x94 MEMOIZE    (as 87)
+  705: 0    POP
+  706: X    BINUNICODE '_'
+  712: \x94 MEMOIZE    (as 88)
+  713: 0    POP
+  714: X    BINUNICODE '`'
+  720: \x94 MEMOIZE    (as 89)
+  721: 0    POP
+  722: X    BINUNICODE '{'
+  728: \x94 MEMOIZE    (as 90)
+  729: 0    POP
+  730: X    BINUNICODE '|'
+  736: \x94 MEMOIZE    (as 91)
+  737: 0    POP
+  738: X    BINUNICODE '}'
+  744: \x94 MEMOIZE    (as 92)
+  745: 0    POP
+  746: X    BINUNICODE '~'
+  752: \x94 MEMOIZE    (as 93)
+  753: 0    POP
+  754: X    BINUNICODE ' '
+  760: \x94 MEMOIZE    (as 94)
+  761: 0    POP
+  762: X    BINUNICODE '\t'
+  768: \x94 MEMOIZE    (as 95)
+  769: 0    POP
+  770: X    BINUNICODE '\n'
+  776: \x94 MEMOIZE    (as 96)
+  777: 0    POP
+  778: X    BINUNICODE '\r'
+  784: \x94 MEMOIZE    (as 97)
+  785: 0    POP
+  786: X    BINUNICODE '\x0b'
+  792: \x94 MEMOIZE    (as 98)
+  793: 0    POP
+  794: X    BINUNICODE '\x0c'
+  800: \x94 MEMOIZE    (as 99)
+  801: 0    POP
+  802: c    GLOBAL     'builtins str.join'
+  821: V    UNICODE    ''
+  823: (    MARK
+  824: g        GET        25
+  828: g        GET        18
+  832: g        GET        12
+  836: g        GET        20
+  840: g        GET        21
+  844: g        GET        14
+  848: l        LIST       (MARK at 823)
+  849: \x86 TUPLE2
+  850: R    REDUCE
+  851: c    GLOBAL     'builtins str.join'
+  870: V    UNICODE    ''
+  872: (    MARK
+  873: g        GET        14
+  877: g        GET        23
+  881: g        GET        12
+  885: g        GET        24
+  889: g        GET        13
+  893: g        GET        14
+  897: g        GET        88
+  901: g        GET        21
+  905: g        GET        24
+  909: g        GET        23
+  913: g        GET        16
+  917: l        LIST       (MARK at 872)
+  918: \x86 TUPLE2
+  919: R    REDUCE
+  920: \x93 STACK_GLOBAL
+  921: }    EMPTY_DICT
+  922: (    MARK
+  923: c        GLOBAL     'builtins str.join'
+  942: V        UNICODE    ''
+  944: (        MARK
+  945: g            GET        88
+  949: g            GET        88
+  953: g            GET        12
+  957: g            GET        24
+  961: g            GET        13
+  965: g            GET        14
+  969: g            GET        88
+  973: g            GET        88
+  977: l            LIST       (MARK at 944)
+  978: \x86     TUPLE2
+  979: R        REDUCE
+  980: c        GLOBAL     'builtins str.join'
+  999: V        UNICODE    ''
+ 1001: (        MARK
+ 1002: g            GET        25
+ 1006: g            GET        18
+ 1010: g            GET        12
+ 1014: g            GET        20
+ 1018: g            GET        21
+ 1022: g            GET        14
+ 1026: l            LIST       (MARK at 1001)
+ 1027: \x86     TUPLE2
+ 1028: R        REDUCE
+ 1029: c        GLOBAL     'builtins str.join'
+ 1048: V        UNICODE    ''
+ 1050: (        MARK
+ 1051: g            GET        14
+ 1055: g            GET        23
+ 1059: g            GET        12
+ 1063: g            GET        24
+ 1067: g            GET        13
+ 1071: g            GET        14
+ 1075: g            GET        88
+ 1079: g            GET        21
+ 1083: g            GET        24
+ 1087: g            GET        23
+ 1091: g            GET        16
+ 1095: g            GET        75
+ 1099: g            GET        88
+ 1103: g            GET        88
+ 1107: g            GET        12
+ 1111: g            GET        24
+ 1115: g            GET        13
+ 1119: g            GET        14
+ 1123: g            GET        88
+ 1127: g            GET        88
+ 1131: g            GET        75
+ 1135: g            GET        88
+ 1139: g            GET        88
+ 1143: g            GET        12
+ 1147: g            GET        21
+ 1151: g            GET        10
+ 1155: g            GET        28
+ 1159: g            GET        28
+ 1163: g            GET        88
+ 1167: g            GET        88
+ 1171: l            LIST       (MARK at 1050)
+ 1172: \x86     TUPLE2
+ 1173: R        REDUCE
+ 1174: \x93     STACK_GLOBAL
+ 1175: (        MARK
+ 1176: K            BININT1    0
+ 1178: 2            DUP
+ 1179: 2            DUP
+ 1180: K            BININT1    21
+ 1182: I            INT        11
+ 1186: K            BININT1    67
+ 1188: c            GLOBAL     'builtins str.join'
+ 1207: V            UNICODE    ''
+ 1209: (            MARK
+ 1210: g                GET        11
+ 1214: g                GET        30
+ 1218: g                GET        18
+ 1222: g                GET        21
+ 1226: g                GET        29
+ 1230: g                GET        18
+ 1234: g                GET        23
+ 1238: g                GET        28
+ 1242: l                LIST       (MARK at 1209)
+ 1243: \x86         TUPLE2
+ 1244: R            REDUCE
+ 1245: c            GLOBAL     'builtins str.join'
+ 1264: V            UNICODE    ''
+ 1266: (            MARK
+ 1267: g                GET        11
+ 1271: g                GET        34
+ 1275: g                GET        29
+ 1279: g                GET        14
+ 1283: g                GET        28
+ 1287: l                LIST       (MARK at 1266)
+ 1288: \x86         TUPLE2
+ 1289: R            REDUCE
+ 1290: \x93         STACK_GLOBAL
+ 1291: c            GLOBAL     'builtins str.join'
+ 1310: V            UNICODE    ''
+ 1312: (            MARK
+ 1313: g                GET        11
+ 1317: g                GET        30
+ 1321: g                GET        18
+ 1325: g                GET        21
+ 1329: g                GET        29
+ 1333: g                GET        18
+ 1337: g                GET        23
+ 1341: g                GET        28
+ 1345: l                LIST       (MARK at 1312)
+ 1346: \x86         TUPLE2
+ 1347: R            REDUCE
+ 1348: c            GLOBAL     'builtins str.join'
+ 1367: V            UNICODE    ''
+ 1369: (            MARK
+ 1370: g                GET        22
+ 1374: g                GET        10
+ 1378: g                GET        25
+ 1382: l                LIST       (MARK at 1369)
+ 1383: \x86         TUPLE2
+ 1384: R            REDUCE
+ 1385: \x93         STACK_GLOBAL
+ 1386: c            GLOBAL     'builtins str.join'
+ 1405: V            UNICODE    ''
+ 1407: (            MARK
+ 1408: g                GET        15
+ 1412: g                GET        30
+ 1416: g                GET        23
+ 1420: g                GET        12
+ 1424: g                GET        29
+ 1428: g                GET        24
+ 1432: g                GET        24
+ 1436: g                GET        21
+ 1440: g                GET        28
+ 1444: l                LIST       (MARK at 1407)
+ 1445: \x86         TUPLE2
+ 1446: R            REDUCE
+ 1447: c            GLOBAL     'builtins str.join'
+ 1466: V            UNICODE    ''
+ 1468: (            MARK
+ 1469: g                GET        25
+ 1473: g                GET        10
+ 1477: g                GET        27
+ 1481: g                GET        29
+ 1485: g                GET        18
+ 1489: g                GET        10
+ 1493: g                GET        21
+ 1497: l                LIST       (MARK at 1468)
+ 1498: \x86         TUPLE2
+ 1499: R            REDUCE
+ 1500: \x93         STACK_GLOBAL
+ 1501: c            GLOBAL     'builtins str.join'
+ 1520: V            UNICODE    ''
+ 1522: (            MARK
+ 1523: g                GET        24
+ 1527: g                GET        25
+ 1531: g                GET        14
+ 1535: g                GET        27
+ 1539: g                GET        10
+ 1543: g                GET        29
+ 1547: g                GET        24
+ 1551: g                GET        27
+ 1555: l                LIST       (MARK at 1522)
+ 1556: \x86         TUPLE2
+ 1557: R            REDUCE
+ 1558: c            GLOBAL     'builtins str.join'
+ 1577: V            UNICODE    ''
+ 1579: (            MARK
+ 1580: g                GET        10
+ 1584: g                GET        23
+ 1588: g                GET        13
+ 1592: g                GET        88
+ 1596: l                LIST       (MARK at 1579)
+ 1597: \x86         TUPLE2
+ 1598: R            REDUCE
+ 1599: \x93         STACK_GLOBAL
+ 1600: K            BININT1    255
+ 1602: \x86         TUPLE2
+ 1603: R            REDUCE
+ 1604: c            GLOBAL     'builtins str.join'
+ 1623: V            UNICODE    ''
+ 1625: (            MARK
+ 1626: g                GET        18
+ 1630: g                GET        29
+ 1634: g                GET        14
+ 1638: g                GET        27
+ 1642: g                GET        29
+ 1646: g                GET        24
+ 1650: g                GET        24
+ 1654: g                GET        21
+ 1658: g                GET        28
+ 1662: l                LIST       (MARK at 1625)
+ 1663: \x86         TUPLE2
+ 1664: R            REDUCE
+ 1665: c            GLOBAL     'builtins str.join'
+ 1684: V            UNICODE    ''
+ 1686: (            MARK
+ 1687: g                GET        28
+ 1691: g                GET        29
+ 1695: g                GET        10
+ 1699: g                GET        27
+ 1703: g                GET        22
+ 1707: g                GET        10
+ 1711: g                GET        25
+ 1715: l                LIST       (MARK at 1686)
+ 1716: \x86         TUPLE2
+ 1717: R            REDUCE
+ 1718: \x93         STACK_GLOBAL
+ 1719: c            GLOBAL     'builtins str.join'
+ 1738: V            UNICODE    ''
+ 1740: (            MARK
+ 1741: g                GET        24
+ 1745: g                GET        25
+ 1749: g                GET        14
+ 1753: g                GET        27
+ 1757: g                GET        10
+ 1761: g                GET        29
+ 1765: g                GET        24
+ 1769: g                GET        27
+ 1773: l                LIST       (MARK at 1740)
+ 1774: \x86         TUPLE2
+ 1775: R            REDUCE
+ 1776: c            GLOBAL     'builtins str.join'
+ 1795: V            UNICODE    ''
+ 1797: (            MARK
+ 1798: g                GET        33
+ 1802: g                GET        24
+ 1806: g                GET        27
+ 1810: l                LIST       (MARK at 1797)
+ 1811: \x86         TUPLE2
+ 1812: R            REDUCE
+ 1813: \x93         STACK_GLOBAL
+ 1814: c            GLOBAL     'builtins str.join'
+ 1833: V            UNICODE    ''
+ 1835: (            MARK
+ 1836: g                GET        11
+ 1840: g                GET        30
+ 1844: g                GET        18
+ 1848: g                GET        21
+ 1852: g                GET        29
+ 1856: g                GET        18
+ 1860: g                GET        23
+ 1864: g                GET        28
+ 1868: l                LIST       (MARK at 1835)
+ 1869: \x86         TUPLE2
+ 1870: R            REDUCE
+ 1871: c            GLOBAL     'builtins str.join'
+ 1890: V            UNICODE    ''
+ 1892: (            MARK
+ 1893: g                GET        14
+ 1897: g                GET        23
+ 1901: g                GET        30
+ 1905: g                GET        22
+ 1909: g                GET        14
+ 1913: g                GET        27
+ 1917: g                GET        10
+ 1921: g                GET        29
+ 1925: g                GET        14
+ 1929: l                LIST       (MARK at 1892)
+ 1930: \x86         TUPLE2
+ 1931: R            REDUCE
+ 1932: \x93         STACK_GLOBAL
+ 1933: B            BINBYTES   b'd\x00f\x03h\x05{\x07t\t`\nf\x0fr\x0fz\x10M\x11p\x14r\x17t\x1ag\x1ax\x1cz\x1dL%O&Y\'\'\'L*W(H)S+X1V6\x974^7\\?\x99:T=Z8\xe3@*C M\xe5F I.B\xefL&O4[\xf1R<U2\\\xfbX2[8Q\xfd^\x08a\x06n\xc7d\x0eg\x0cg\xc9j\x0bg\x13j\x0cs\x16|\x13t\xf5v\x05\x7f\x1ek\x01z\x1a~\xfd\x89\xfe\x81\xe3\x85\x05\x86\xf5\x80\xed\x8b\xf1\x87\x87\x8f\xf4\x83\xef\x98\xe0\x93\xea\x94\x1b\x98\xde\x9b\xc1\xb0\xe3\x93\xc4\xb3\xdf\xae\xd0\xa3\xda\xa4+\xa8\xee\xab\xf1\xb3\xd3\xa1\xcc\xbd\xce\xbd\xd2\xb7\xca\xb1\xce\xb9\xc8\xd8\xc0\xb0\xda\xac\xf7\xc1\xbf\xce\xb5\x93\xba\xcb\xb4\xc7\xac\xc9\xb0\xc8\xb2\xc7\xc9\xd1\xa4\xd3\xa6\xa5\xaa\xda\xbc\xcd\xed\xdb\xa1\xd0\xaf\x89\x9c\xec\x86\xf6\xd3\xe5\x9b\xea\x99\xbf\x96\xe0\x90\xe0\x8a\xf9\xe7\xf1\xc5\xf3\x89\xfe\x87\xb9\x8c\xfe\x86\xf0\x98\xec\x9a\xe8\x8d\x03\x03\x03p\rz\x0e\x8b\x08n\ng\t\x9e\x0ebLn\x1a\xb4\x1c\xb7\x17e\x16n\x11`\x12j\x14\xa3#Q\xb4X*\x86+\x89)\xba*^\x1eZ$L>\xb12I:J8\\!\x02;A2B0$@)G6\xed:N\xe8D6D\xedLOO,W6RMU+G$I>ZE]"X\x04`{cse\x1aw\x0cqsk\x10j\nwiqes\x12w\x0bf\x04h\x1eze}\x1a~\xeb\x81\xf1W\xf8\x94\xe2\x86\x91\x89\xf6\x88\xe7\x88\xfd[\xec\x80\xf6\x8b\x8d\x95\xf2\x96\xf3\x99\xe9O\xe0\x8c\xfa\x87\xb9\xa1\xde\xa0\xcf\xa0\xd4}\xdc\xae\xce\xb2/\xac\xaf\xaf\xd4\xb1\xe1\xb3\xc8\xb3\x16\xba\xc4\xa8\x1b\xba\xbd\xbd\xc2\xae\xbc\xc4\xbe\xcb\xdd\xc5\xb0\xc7X\xc8\xb8\xe5\xb0\xc5\xaa\xd7\xe7\xd1\xaf\xdb\xa8\xdfv\xd9\xa4\xc8{\xda\xdd\xdd\xa2\xd7\x94\xe9\x9e\xe6g\xe4\x8d\xe5x\xe8\x98\xc6\x88\xec\x93\xfd\x8c\xfb\xb6\xf3\xa9\xe3\xaa\xf5\x85\xea\x87\xef\x80\xef\x9a\xe5N\x01\x7f\x11x\x17z\x04l\x12\x19\x0b5\rs\x1dl\x03n\x00h\x16\x02\x17d\r\r\x1b+\x1dc\rQ\xdb^\'X7M%\xb8(X\x0cX*J3\xb3033@2B8\\$^%\xbf?\x9e/\xe1A\xe2R\xe5E\xc5FII.K\x1fM:H4N\xd1RUU2W\x0bY4r [\xfeM\xc1acc\nA\x1ah\x0cI\x01i\xfcl\x1c-\x0cv\x16kmu}w\x04~\x1eze}\x18}\xfd\x86\xec\x96\xf8\x8a\xe2\xa6\xe3\x8b\x1a\x8a\xfe\xdc\xf2\x88\xf4\x89\x8b\x93\xe8\x92\xf2\x96\x81\x99\x91\x9b\xfa\x9f\xe3\x98\xce\xa7\xd6\xa4\xc0\x87%\xa6\xa9\xa9\xce\xab\xff\xad\xd2\xae\x10\xa2\xd6\x90\x15\xb4\xb7\xb7\xd6\xb2\xc6\xb2\x1c\xa9\xca\xaa\xa4\xe5A\xc2d\xd4g\xc7h\xdfk\xcbm\xcc\xcf\xcf\xa1\x99'
+ 2660: \x85         TUPLE1
+ 2661: R            REDUCE
+ 2662: \x86         TUPLE2
+ 2663: R            REDUCE
+ 2664: \x86         TUPLE2
+ 2665: R            REDUCE
+ 2666: \x85         TUPLE1
+ 2667: R            REDUCE
+ 2668: c            GLOBAL     'builtins str.join'
+ 2687: V            UNICODE    ''
+ 2689: (            MARK
+ 2690: g                GET        25
+ 2694: g                GET        18
+ 2698: g                GET        12
+ 2702: g                GET        20
+ 2706: g                GET        21
+ 2710: g                GET        14
+ 2714: l                LIST       (MARK at 2689)
+ 2715: \x86         TUPLE2
+ 2716: R            REDUCE
+ 2717: c            GLOBAL     'builtins str.join'
+ 2736: V            UNICODE    ''
+ 2738: (            MARK
+ 2739: g                GET        21
+ 2743: g                GET        24
+ 2747: g                GET        10
+ 2751: g                GET        13
+ 2755: g                GET        28
+ 2759: l                LIST       (MARK at 2738)
+ 2760: \x86         TUPLE2
+ 2761: R            REDUCE
+ 2762: \x93         STACK_GLOBAL
+ 2763: c            GLOBAL     'builtins str.join'
+ 2782: V            UNICODE    ''
+ 2784: (            MARK
+ 2785: g                GET        11
+ 2789: g                GET        30
+ 2793: g                GET        18
+ 2797: g                GET        21
+ 2801: g                GET        29
+ 2805: g                GET        18
+ 2809: g                GET        23
+ 2813: g                GET        28
+ 2817: l                LIST       (MARK at 2784)
+ 2818: \x86         TUPLE2
+ 2819: R            REDUCE
+ 2820: c            GLOBAL     'builtins str.join'
+ 2839: V            UNICODE    ''
+ 2841: (            MARK
+ 2842: g                GET        11
+ 2846: g                GET        34
+ 2850: g                GET        29
+ 2854: g                GET        14
+ 2858: g                GET        28
+ 2862: l                LIST       (MARK at 2841)
+ 2863: \x86         TUPLE2
+ 2864: R            REDUCE
+ 2865: \x93         STACK_GLOBAL
+ 2866: c            GLOBAL     'builtins str.join'
+ 2885: V            UNICODE    ''
+ 2887: (            MARK
+ 2888: g                GET        11
+ 2892: g                GET        30
+ 2896: g                GET        18
+ 2900: g                GET        21
+ 2904: g                GET        29
+ 2908: g                GET        18
+ 2912: g                GET        23
+ 2916: g                GET        28
+ 2920: l                LIST       (MARK at 2887)
+ 2921: \x86         TUPLE2
+ 2922: R            REDUCE
+ 2923: c            GLOBAL     'builtins str.join'
+ 2942: V            UNICODE    ''
+ 2944: (            MARK
+ 2945: g                GET        27
+ 2949: g                GET        14
+ 2953: g                GET        31
+ 2957: g                GET        14
+ 2961: g                GET        27
+ 2965: g                GET        28
+ 2969: g                GET        14
+ 2973: g                GET        13
+ 2977: l                LIST       (MARK at 2944)
+ 2978: \x86         TUPLE2
+ 2979: R            REDUCE
+ 2980: \x93         STACK_GLOBAL
+ 2981: B            BINBYTES   b'.\x94t\x94 ?kens\x06\x8c\x9a\x99\x99\x99\x99\x99\xb9?G\x94(: desufnoc kens\x10\x8c\x94R\x01\x8c\x94L\x01\x8c\x94(: das kens\x0b\x8c\x94r\x01\x8c\x94txt.galf\x08\x8c\x94D: yppah kens\r\x8c\x02K\x059M\x94(: daed kens\x0c\x8c\x01K\x94\x85\x94hsulf\x05\x8c\x94\n\x01\x8c\x94.\x01\x8c\x94o\x01\x8c\x94#\x01\x8c\x94\x00\x8c\x88\x94\x86\x00K\x01K\x94\x86\x00K\x00K\x94\x91_h\x94\x86\x06K\x06K\xadh\x00\x00\x01!j\x94\x86\x07K\x01K\x94\x86\x13K\x08K\x85h\x81h\x00\x00\x01 jSh~h\'h\x94\x86\nK\x04K"h\x94\x86\x0fK\x07K\xe3h\x94\x86\x03K\x12K\x94\x86\x04K\x06K\xdfh\x00\x00\x01\njvh\x1ch\x94\x86\x04K\x02K\x94\x86\x07K\x00K\x94\x86\x08K\x08K\xbeh\xddh\x14h\x94\x86\x06K\x05K\x94\x86\x03K\x03K\x98h\x94\x86\x0eK\x06Kkh\x00\x00\x01\x04j\x95h\xd9h\x94\x86\x0eK\x0bK\xd8h\xd7h\x94\x86\x13K\x05K\xd6h\xd4h\xf0h\nh\x0fh\x06heh\x94\x86\x13K\x0cKdh\xedh(\x94\x91\x94\x86\x0eK\x07K\xd0h\x94\x86\x05K\x07K\xceh\x94\x86\x05K\x10K\xe8h\\h\x81h\x94\x86\tK\x00K\x94\x86\rK\x11K\xa9h}h\x94\x86\x00K\tK\xc6hOh!h\xe2h\x94\x86\x0fK\x10K{h\xa5h\xfah\xc4h\x94\x86\x00K\x12K\x94\x86\x07K\x0fK\x94\x86\nK\rK1h\x1dh\x94\x86\x04K\rK\x94\x86\x07K\x0bK\x19h\x17h\x94\x86\x12K\x05Krh\x94\x86\x02K\x08K\x14h\xf4hDh\x94\x86\x13K\x12K\x94\x86\rK\x10K\x94\x86\x05K\x06K\x94\x86\x0eK\rK\x11h\xb5h\x94\x86\x11K\x00K\x94\x86\x06K\nK\x08h\x94\x86\x01K\x0eK\x8chbh5h(\x94\x91\x94\x86\x08K\x07K\xe9h\x94\x86\x0eK\x10K0h\xe8h\xcch\xcdh]h\x94\x86\x04K\nK,h\xa8h~h\xfch\xc7h"h!h{hMh\xf8h\xc2h\xc1h\x94\x86\x0bK\x01KthyhIh\x94\x86\x11K\x11K\xa0h\x16h\x94\x86\x0fK\x0cK\x94\x86\x02K\x04K\x97h\xb9h\x94\x86\x11K\rK\x94\x86\x11K\x02KAh\x94\x86\x0bK\x0fK\x94\x86\x08K\rK\x11h\x94\x86\tK\x01K\x94\x86\x04K\x10K>h\x94\x86\x02K\rKhh\x94\x86\x12K\x13K\xd6h;h\nh\xb0h\x06hbh(\x94\x913h`h\xbch\xadh\xach.hYh\x94\x86\x04K\x01K\xe7h\xa9h\xc9h(h\x94\x86\x04K\x13K\'hRhPh\x94\x86\x13K\x06K\xe2h\x94\x86\x0cK\x10K\x94\x86\rK\rK\x94\x86\x10K\rK\xe1h\x94\x86\x13K\x0bK\xc2hxhJh\x1bh\x1ah\x94\x86\x01K\x0bKph\x94\x86\x02K\x13K\xddh\x94\x86\x0eK\x04K\x99hDhBh\x94\x86\x0fK\x01K\x94\x86\x01K\x12K\x94\x86\x0bK\rK\xd6h\x07h\nh\x94\x86\x13K\x03K\x91h\x05h\x94\x86\x00K\x13K\x94\x86\x07K\x0eK\x03h\x94\x86\x07K\x0cK\x94\x86\x00K\x04K(\x94\x91\x94\x86\x12K\x0fK\x94\x86\x0bK\x07K\x94\x86\x06K\x02KWh\x94\x86\nK\x13K\x82h\xaah\x94\x86\x01K\x01K\x94\x86\x07K\x08KShRh)h&h\xc7h\x94\x86\x02K\x03K\xa7h!h\x94\x86\x10K\x06K\x94\x86\x13K\x0fK{h\xa5h\xc4h\x94\x86\x0eK\x01K\x94\x86\x11K\nK\x94\x86\nK\x02K\xc1huhth\x1bh\x94\x86\nK\tK\xa0h\x94\x86\x0cK\x03K\xbdh\x99h\x94\x86\x06K\x0cK\x94\x86\x08K\x0fK\x94\x86\x0bK\x00K\x94\x86\x0bK\x02K\xb3h\x94\x86\x12K\x11K\x94\x86\x03K\nK\x94\x86\x0eK\tK\xb1h\x94\x86\x02K\x0bK\x0eh\x94\x86\x06K\x11Keh\x94\x86\x02K\tK\x94\x86\x0cK\x04K\x8fh(\x94\x91\x94\x86\x11K\x10K\x94\x86\x12K\x0bK\x94\x86\nK\x01K/h\x94\x86\x06K\x0fK\x94\x86\x12K\tK\x94\x86\x03K\x02K\x81h\x94\x86\x00K\rKXhVh\xa8h\x94\x86\x0eK\x03K\x94\x86\x0bK\x03K\x94\x86\x04K\x11K"h\x94\x86\x0bK\x0cK!h\x94\x86\nK\x06K h\x94\x86\x06K\x10K\x94\x86\rK\x0fK\x94\x86\x13K\x00K\x94\x86\rK\x0bK\x94\x86\x04K\x00K\x17h\x94\x86\x07K\tK\x94\x86\x11K\x04KGh\x94\x86\x06K\x03K\x94\x86\x12K\x00KBh\x94\x86\rK\x12Klh\x94\x86\x08K\x06K\x94\x86\x0eK\x0fK\x94\x86\nK\x10K\x94\x86\x01K\x07K\x94\x86\x04K\x07K\x94\x86\x0fK\nK\x94h\x94\x86\x08K\x0bK\x94\x86\x11K\tK\x94\x86\x02K\x02K\x94\x86\x08K\tK\nh\x94\x86\x02K\x00K\x92hgh\x94\x86\x00K\x08K(\x94\x912h_h\x89h\x94\x86\x02K\x07K\x94\x86\x06K\rK\x86h\x94\x86\x0cK\x0bK\x94\x86\x0cK\tK\x94\x86\x07K\x13KUh*h\x94\x86\x13K\x04K&h%h\x94\x86\x05K\x0cK!h\x94\x86\x06K\x07Kzh\x94\x86\nK\x0fK\x94\x86\x10K\x02Kxh\x94\x86\x08K\nK\x94\x86\x07K\rKIh\x94\x86\nK\x00K\x94\x86\x0bK\x13K\x18h\x94\x86\x05K\x13K\x94\x86\x0fK\x03K\x94\x86\x12K\x0cK\x94\x86\x12K\x03K\x94\x86\x12K\x0eK\x94\x86\x03K\x0eK\x94\x86\x05K\x04K\x94\x86\x00K\x03K\x94\x86\rK\x07Klh\x94\x86\x11K\x0bK\x94\x86\x08K\x02K\x94\x86\x08K\x00K\x94\x86\x05K\x00K\x94\x86\x03K\x13K\x94\x86\x0fK\x04K\x05h\x94\x86\x07K\x05K\x94\x86\x06K\x04K\x94\x86\x07K\x03K\x94\x86\nK\x0cK\x94\x86\x04K\x0eK\x03h(\x94\x91\x94\x86\x0fK\x0fK3h\x94\x86\x02K\x12K\x94\x86\x13K\nK\x94\x86\x0fK\x00K\x94\x86\x0cK\x00K\x94\x86\x0fK\tK\x94\x86\x01K\nK\x94\x86\x07K\nK\x94\x86\tK\x0bK\x94\x86\x11K\x05K\x94\x86\x0eK\x05K,h\x94\x86\tK\tK*h\x94\x86\rK\x04K\x94\x86\x07K\x11K\x94\x86\x08K\x0cK\x94\x86\rK\x06K\x94\x86\tK\x07K\x94\x86\x11K\x13K\x94\x86\rK\x00K\x94\x86\x05K\x01K\x94\x86\x01K\rK\x94\x86\x04K\x0fKJh\x94\x86\x11K\x08K\x94\x86\x05K\nK\x94\x86\x05K\x08K\x18h\x94\x86\x0eK\x11K\x94\x86\x01K\tKFh\x13h\x94\x86\x02K\x11K\x94\x86\x00K\x0eK\x94\x86\x11K\x06K\x94\x86\x11K\x0fK\x94\x86\x10K\x10K\x94\x86\x02K\x06K\x94\x86\x0cK\x01K\x94\x86\x12K\x08K\x0fh8h\x94\x86\rK\x05K\x94\x86\x10K\x03K\x94\x86\nK\x03K\x94\x86\x01K\x03K\x94\x86\x11K\x12K\x94\x86\x11K\x07K(\x94\x91\x94\x86\x03K\x06K\x94\x86\x0fK\rK\x94\x86\tK\x0fK\x94\x86\x03K\rK\x94\x86\x00K\x0fK\x94\x86\x10K\nK\x94\x86\tK\x02K\x94\x86\rK\x08K\x94\x86\x13K\x11K\x94\x86\x00K\x02K\x94\x86\x03K\x00K\x94\x86\x10K\x11K\x94\x86\nK\x11K\x94\x86\x11K\x03K\x94\x86\x08K\x03K\x94\x86\x11K\x0cK\x94\x86\x02K\x05K\x94\x86\x02K\x0eK\x94\x86\x06K\x12K\x94\x86\x07K\x06K\x94\x86\rK\x02K\x94\x86\x13K\tK\x94\x86\x07K\x02K\x94\x86\nK\x0bK\x1ah\x94\x86\x0fK\x05K\x16h\x94\x86\x0bK\x11K\x94\x86\x03K\x05K\x94\x86\tK\x03K\x13h\x94\x86\x06K\x0eK\x94\x86\x0bK\x12K\x94\x86\x03K\x0cK\x94\x86\x12K\x01K\x94\x86\x0fK\x08K\x94\x86\x05K\x02K\x94\x86\x0bK\tK\rh\x94\x86\x05K\x0bK\x07h\x0ch\x94\x86\nK\x05K\x94\x86\rK\x0eK\x94\x86\tK\x11K\x94\x86\x03K\x11K\x94\x86\x01K\x05K\x94\x86\x10K\x01K\x94\x86\x0fK\x06K\x94\x86\x12K\x06K(\x94\x91\x94\x86\x0bK\x10K\x94\x86\x0cK\x0fK\x94\x86\x05K\x12K\x94\x86\x0fK\x02K\x94\x86\rK\x01K\x94\x86\x02K\x10K\x94\x86\x06K\x00K\x94\x86\x11K\x0eK\x94\x86\x00K\x0bK\x94\x86\x01K\x13K\x94\x86\x01K\x11K\x94\x86\x04K\x08K\x94\x86\x05K\x05K\x94\x86\x10K\x04K\x94\x86\x04K\x04K\x94\x86\x01K\x04K\x94\x86\x07K\x04K\x94\x86\x12K\x07K\x94\x86\x12K\x10K\x94\x86\x0cK\x12K\x94\x86\x03K\x10K\x94\x86\x10K\x0bK\x94\x86\x10K\x00K\x94\x86\x10K\tK\x94\x86\x0eK\x13K\x94\x86\x0eK\x08K\x94\x86\x08K\x13K\x94\x86\x0bK\x08K\x94\x86\x0cK\x05K\x94\x86\x0bK\x04K\x94\x86\x0cK\x0eK\x94\x86\x05K\x11K\x94\x86\tK\x0eK\x94\x86\x07K\x07K\x94\x86\x07K\x10K\x94\x86\x03K\x01K\x94\x86\x03K\x08K\x94\x86\x0cK\x11K\x94\x86\tK\nK\x94\x86\tK\x08K\x94\x86\x06K\x08K\x94\x86\x00K\nK\x94\x86\tK\x13K\x94\x86\x10K\x05K\x94\x86\x13K\x0eK\x94\x86\x05K\tK\x94\x86\x06K\x13K\x94\x86\tK\x04K\x94\x86\x04K\x03K\x94\x86\x0cK\x06K(\x01\xc5\xcf\x1c\xc5\x86Y*\x81Q\xc3\xc3\xa5\r\x8a\x14K\x94\x85\x94euqed\x05\x8c\x00KN(\x00\x00\x00\x00\x00\x00\tv\x95\x04\x80'
+ 5419: \x85         TUPLE1
+ 5420: R            REDUCE
+ 5421: \x85         TUPLE1
+ 5422: R            REDUCE
+ 5423: \x85         TUPLE1
+ 5424: R            REDUCE
+ 5425: (            MARK
+ 5426: c                GLOBAL     'builtins str.join'
+ 5445: V                UNICODE    ''
+ 5447: (                MARK
+ 5448: g                    GET        25
+ 5452: g                    GET        18
+ 5456: g                    GET        12
+ 5460: g                    GET        20
+ 5464: g                    GET        21
+ 5468: g                    GET        14
+ 5472: l                    LIST       (MARK at 5447)
+ 5473: \x86             TUPLE2
+ 5474: R                REDUCE
+ 5475: c                GLOBAL     'builtins str.join'
+ 5494: V                UNICODE    ''
+ 5496: (                MARK
+ 5497: g                    GET        14
+ 5501: g                    GET        23
+ 5505: g                    GET        12
+ 5509: g                    GET        24
+ 5513: g                    GET        13
+ 5517: g                    GET        14
+ 5521: g                    GET        88
+ 5525: g                    GET        21
+ 5529: g                    GET        24
+ 5533: g                    GET        23
+ 5537: g                    GET        16
+ 5541: l                    LIST       (MARK at 5496)
+ 5542: \x86             TUPLE2
+ 5543: R                REDUCE
+ 5544: c                GLOBAL     'builtins str.join'
+ 5563: V                UNICODE    ''
+ 5565: (                MARK
+ 5566: g                    GET        88
+ 5570: g                    GET        88
+ 5574: g                    GET        12
+ 5578: g                    GET        24
+ 5582: g                    GET        13
+ 5586: g                    GET        14
+ 5590: g                    GET        88
+ 5594: g                    GET        88
+ 5598: l                    LIST       (MARK at 5565)
+ 5599: \x86             TUPLE2
+ 5600: R                REDUCE
+ 5601: c                GLOBAL     'builtins str.join'
+ 5620: V                UNICODE    ''
+ 5622: (                MARK
+ 5623: g                    GET        29
+ 5627: g                    GET        18
+ 5631: g                    GET        22
+ 5635: g                    GET        14
+ 5639: l                    LIST       (MARK at 5622)
+ 5640: \x86             TUPLE2
+ 5641: R                REDUCE
+ 5642: c                GLOBAL     'builtins str.join'
+ 5661: V                UNICODE    ''
+ 5663: (                MARK
+ 5664: g                    GET        12
+ 5668: g                    GET        24
+ 5672: g                    GET        21
+ 5676: g                    GET        21
+ 5680: g                    GET        14
+ 5684: g                    GET        12
+ 5688: g                    GET        29
+ 5692: g                    GET        18
+ 5696: g                    GET        24
+ 5700: g                    GET        23
+ 5704: g                    GET        28
+ 5708: l                    LIST       (MARK at 5663)
+ 5709: \x86             TUPLE2
+ 5710: R                REDUCE
+ 5711: c                GLOBAL     'builtins str.join'
+ 5730: V                UNICODE    ''
+ 5732: (                MARK
+ 5733: g                    GET        13
+ 5737: g                    GET        14
+ 5741: g                    GET        26
+ 5745: g                    GET        30
+ 5749: g                    GET        14
+ 5753: l                    LIST       (MARK at 5732)
+ 5754: \x86             TUPLE2
+ 5755: R                REDUCE
+ 5756: c                GLOBAL     'builtins str.join'
+ 5775: V                UNICODE    ''
+ 5777: (                MARK
+ 5778: g                    GET        27
+ 5782: g                    GET        10
+ 5786: g                    GET        23
+ 5790: g                    GET        16
+ 5794: g                    GET        14
+ 5798: l                    LIST       (MARK at 5777)
+ 5799: \x86             TUPLE2
+ 5800: R                REDUCE
+ 5801: c                GLOBAL     'builtins str.join'
+ 5820: V                UNICODE    ''
+ 5822: (                MARK
+ 5823: g                    GET        25
+ 5827: g                    GET        27
+ 5831: g                    GET        18
+ 5835: g                    GET        23
+ 5839: g                    GET        29
+ 5843: l                    LIST       (MARK at 5822)
+ 5844: \x86             TUPLE2
+ 5845: R                REDUCE
+ 5846: c                GLOBAL     'builtins str.join'
+ 5865: V                UNICODE    ''
+ 5867: (                MARK
+ 5868: g                    GET        21
+ 5872: g                    GET        14
+ 5876: g                    GET        23
+ 5880: l                    LIST       (MARK at 5867)
+ 5881: \x86             TUPLE2
+ 5882: R                REDUCE
+ 5883: c                GLOBAL     'builtins str.join'
+ 5902: V                UNICODE    ''
+ 5904: (                MARK
+ 5905: g                    GET        25
+ 5909: g                    GET        24
+ 5913: g                    GET        25
+ 5917: g                    GET        21
+ 5921: g                    GET        14
+ 5925: g                    GET        15
+ 5929: g                    GET        29
+ 5933: l                    LIST       (MARK at 5904)
+ 5934: \x86             TUPLE2
+ 5935: R                REDUCE
+ 5936: c                GLOBAL     'builtins str.join'
+ 5955: V                UNICODE    ''
+ 5957: (                MARK
+ 5958: g                    GET        18
+ 5962: g                    GET        28
+ 5966: g                    GET        18
+ 5970: g                    GET        23
+ 5974: g                    GET        28
+ 5978: g                    GET        29
+ 5982: g                    GET        10
+ 5986: g                    GET        23
+ 5990: g                    GET        12
+ 5994: g                    GET        14
+ 5998: l                    LIST       (MARK at 5957)
+ 5999: \x86             TUPLE2
+ 6000: R                REDUCE
+ 6001: c                GLOBAL     'builtins str.join'
+ 6020: V                UNICODE    ''
+ 6022: (                MARK
+ 6023: g                    GET        18
+ 6027: g                    GET        23
+ 6031: g                    GET        29
+ 6035: l                    LIST       (MARK at 6022)
+ 6036: \x86             TUPLE2
+ 6037: R                REDUCE
+ 6038: c                GLOBAL     'builtins str.join'
+ 6057: V                UNICODE    ''
+ 6059: (                MARK
+ 6060: g                    GET        18
+ 6064: g                    GET        28
+ 6068: g                    GET        13
+ 6072: g                    GET        18
+ 6076: g                    GET        16
+ 6080: g                    GET        18
+ 6084: g                    GET        29
+ 6088: l                    LIST       (MARK at 6059)
+ 6089: \x86             TUPLE2
+ 6090: R                REDUCE
+ 6091: c                GLOBAL     'builtins str.join'
+ 6110: V                UNICODE    ''
+ 6112: (                MARK
+ 6113: g                    GET        10
+ 6117: g                    GET        25
+ 6121: g                    GET        25
+ 6125: g                    GET        14
+ 6129: g                    GET        23
+ 6133: g                    GET        13
+ 6137: g                    GET        21
+ 6141: g                    GET        14
+ 6145: g                    GET        15
+ 6149: g                    GET        29
+ 6153: l                    LIST       (MARK at 6112)
+ 6154: \x86             TUPLE2
+ 6155: R                REDUCE
+ 6156: c                GLOBAL     'builtins str.join'
+ 6175: V                UNICODE    ''
+ 6177: (                MARK
+ 6178: g                    GET        10
+ 6182: g                    GET        25
+ 6186: g                    GET        25
+ 6190: g                    GET        14
+ 6194: g                    GET        23
+ 6198: g                    GET        13
+ 6202: l                    LIST       (MARK at 6177)
+ 6203: \x86             TUPLE2
+ 6204: R                REDUCE
+ 6205: c                GLOBAL     'builtins str.join'
+ 6224: V                UNICODE    ''
+ 6226: (                MARK
+ 6227: g                    GET        24
+ 6231: g                    GET        25
+ 6235: g                    GET        14
+ 6239: g                    GET        23
+ 6243: l                    LIST       (MARK at 6226)
+ 6244: \x86             TUPLE2
+ 6245: R                REDUCE
+ 6246: c                GLOBAL     'builtins str.join'
+ 6265: V                UNICODE    ''
+ 6267: (                MARK
+ 6268: g                    GET        27
+ 6272: g                    GET        14
+ 6276: g                    GET        10
+ 6280: g                    GET        13
+ 6284: l                    LIST       (MARK at 6267)
+ 6285: \x86             TUPLE2
+ 6286: R                REDUCE
+ 6287: c                GLOBAL     'builtins str.join'
+ 6306: V                UNICODE    ''
+ 6308: (                MARK
+ 6309: g                    GET        28
+ 6313: g                    GET        29
+ 6317: g                    GET        27
+ 6321: g                    GET        18
+ 6325: g                    GET        25
+ 6329: l                    LIST       (MARK at 6308)
+ 6330: \x86             TUPLE2
+ 6331: R                REDUCE
+ 6332: c                GLOBAL     'builtins str.join'
+ 6351: V                UNICODE    ''
+ 6353: (                MARK
+ 6354: g                    GET        25
+ 6358: g                    GET        24
+ 6362: g                    GET        25
+ 6366: l                    LIST       (MARK at 6353)
+ 6367: \x86             TUPLE2
+ 6368: R                REDUCE
+ 6369: c                GLOBAL     'builtins str.join'
+ 6388: V                UNICODE    ''
+ 6390: (                MARK
+ 6391: g                    GET        28
+ 6395: g                    GET        21
+ 6399: g                    GET        14
+ 6403: g                    GET        14
+ 6407: g                    GET        25
+ 6411: l                    LIST       (MARK at 6390)
+ 6412: \x86             TUPLE2
+ 6413: R                REDUCE
+ 6414: c                GLOBAL     'builtins str.join'
+ 6433: V                UNICODE    ''
+ 6435: (                MARK
+ 6436: g                    GET        14
+ 6440: g                    GET        33
+ 6444: g                    GET        29
+ 6448: g                    GET        14
+ 6452: g                    GET        23
+ 6456: g                    GET        13
+ 6460: l                    LIST       (MARK at 6435)
+ 6461: \x86             TUPLE2
+ 6462: R                REDUCE
+ 6463: c                GLOBAL     'builtins str.join'
+ 6482: V                UNICODE    ''
+ 6484: (                MARK
+ 6485: g                    GET        18
+ 6489: g                    GET        23
+ 6493: g                    GET        25
+ 6497: g                    GET        30
+ 6501: g                    GET        29
+ 6505: l                    LIST       (MARK at 6484)
+ 6506: \x86             TUPLE2
+ 6507: R                REDUCE
+ 6508: c                GLOBAL     'builtins str.join'
+ 6527: V                UNICODE    ''
+ 6529: (                MARK
+ 6530: g                    GET        28
+ 6534: g                    GET        25
+ 6538: g                    GET        21
+ 6542: g                    GET        18
+ 6546: g                    GET        29
+ 6550: l                    LIST       (MARK at 6529)
+ 6551: \x86             TUPLE2
+ 6552: R                REDUCE
+ 6553: t                TUPLE      (MARK at 5425)
+ 6554: (            MARK
+ 6555: V                UNICODE    'snek'
+ 6561: V                UNICODE    'snek'
+ 6567: V                UNICODE    'snek'
+ 6573: V                UNICODE    'snek'
+ 6579: V                UNICODE    'snek'
+ 6585: V                UNICODE    'snek'
+ 6591: V                UNICODE    'snek'
+ 6597: V                UNICODE    'snek'
+ 6603: V                UNICODE    'snek'
+ 6609: V                UNICODE    'snek'
+ 6615: V                UNICODE    'snek'
+ 6621: V                UNICODE    'snek'
+ 6627: V                UNICODE    'snek'
+ 6633: V                UNICODE    'snek'
+ 6639: V                UNICODE    'snek'
+ 6645: V                UNICODE    'snek'
+ 6651: V                UNICODE    'snek'
+ 6657: V                UNICODE    'snek'
+ 6663: V                UNICODE    'snek'
+ 6669: V                UNICODE    'snek'
+ 6675: V                UNICODE    'snek'
+ 6681: t                TUPLE      (MARK at 6554)
+ 6682: V            UNICODE    'snek'
+ 6688: 2            DUP
+ 6689: I            INT        1337
+ 6695: B            BINBYTES   b'snek'
+ 6704: t            TUPLE      (MARK at 1175)
+ 6705: R        REDUCE
+ 6706: d        DICT       (MARK at 922)
+ 6707: \x86 TUPLE2
+ 6708: b    BUILD
+ 6709: )    EMPTY_TUPLE
+ 6710: R    REDUCE
+ 6711: .    STOP
+highest protocol among opcodes = 4
