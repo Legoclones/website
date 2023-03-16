@@ -9,8 +9,12 @@ title: Resume
 * Individually placed 2nd in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2022
 * Individually placed 5th/6675 students in [NCL Individual CTF](https://nationalcyberleague.org/competition) in Fall 2022
 * Placed 7th/3926 student teams in [NCL Team CTF](https://nationalcyberleague.org/competition) in Fall 2022
-* Placed 2nd in [Global CPTC 2022 Regionals](https://cp.tc/)
-* Participated in over 45 CTFs since 2020
+* Placed 1st in 4 cyber competitions
+* Placed 2nd in 6 cyber competitions
+* Placed 3rd in 3 cyber competitions
+* Hosted 5 CTF competitions
+* Participated in over 60 CTFs since 2020
+
 
 # Education
 * <u>**Brigham Young University, Ira A. Fulton College of Engineering**</u> (April 2024)
