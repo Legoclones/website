@@ -1,11 +1,11 @@
 ---
-title: About Me
+title: About Me/Resume
 ---
 
 # Biography
 I go by the handle "Legoclones", which I've had since a tween when I was VERY interested in LEGOs and clone troopers. I'm a cybersecurity student (both at BYU and for life) and love the challenge that cyber presents. I'm initiative-driven, detail-focused, and highly motivated to learn and contribute to the InfoSec community. I'm technical by nature, which is why I've felt naturally drawn to CTFs. 
 
-I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the Department of Defense, and am a member of the [US Cyber Team](https://www.uscybergames.com/) which competes internationally in cyber competitions. Cyber competitions are my bread and butter, and I love pushing myself to improve.
+I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the Department of Defense, and am a member of the [US Cyber Team](https://www.uscybergames.com/) which competes internationally in cyber competitions. I also play CTFs with my school team [BYU Cyberia](https://ctftime.org/team/155711), and the international team [Project Sekai](https://ctftime.org/team/169557). Cyber competitions are my bread and butter, and I love pushing myself to improve.
 
 # Interests
 * Website exploitation
@@ -18,15 +18,48 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Action and military movies
 * Soccer
 
-# Qualifications
-* Published 1 CVE (CVE-2022-4271)
+# Achievements
 * Placed 1st in DEFCON 30's AppSecVillage CTF
-* Placed 2nd in SAINTCON's 2022 Hackers Challenge
-* Placed 5th in NCL's Individual CTF (Fall 2022) out of 6675 participants
-* Placed 7th in NCL's Team CTF (Fall 2022) out of 3926 teams
-* Placed 2nd in the At-Large Region of Global CPTC 2022/2023, [advanced to Finals](https://twitter.com/globalcptc/status/1598101562915692545)
-* Placed in top 2% of Hivestorm 2022
-* Placed in top 2% of HacktivityCon CTF 2021
-* Participated in over 45 CTFs since 2020
+* Published 1 CVE ([CVE-2022-4271](https://huntr.dev/bounties/a11c922f-255a-412a-aa87-7f3bd7121599/))
+* Member of [US Cyber Team](https://www.uscybergames.com/) to represent the United States in [ICC 2023](https://www.ic3.games/)
+* Individually placed 2nd in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2022
+* Individually placed 5th/6675 students in [NCL Individual CTF](https://nationalcyberleague.org/competition) in Fall 2022
+* Placed 7th/3926 student teams in [NCL Team CTF](https://nationalcyberleague.org/competition) in Fall 2022
+* Placed 1st in 4 cyber competitions
+* Placed 2nd in 6 cyber competitions
+* Placed 3rd in 3 cyber competitions
+* Hosted 5 CTF competitions
+* Participated in over 70 CTFs since 2020
 
-To see more, visit my [resume page](/resume).
+
+# Education
+* <u>**Brigham Young University, Ira A. Fulton College of Engineering**</u> (April 2024)
+    * Bachelor in Cybersecurity (GPA of 3.77)
+    * Academic, Full-Tuition Scholarship
+    * [Department of Defense SMART Scholar](https://www.smartscholarship.org/smart)
+
+# Certifications
+* [CompTIA Security+ SY-601](https://www.credly.com/badges/40ec4e81-2110-4d5c-a4e3-692b92127675)
+* [CompTIA Pentest+ PT0-002](https://www.credly.com/badges/5cbadd0a-0a9c-4468-9a0e-6d1400e9b867)
+* [eLearnSecurity eJPTv1](https://elearnsecurity.com/verify-certificate/) (Credential ID 3886217)
+
+# Experience
+* <u>**Security Engineer and Engineering Team Lead, BYU Life Sciences IT**</u> (Aug 2021 – Present)
+    * Designed, implemented, and containerized secure infrastructure of the largest college on campus
+    * Resolved dozens of security threats and incidents across 1000+ servers, labs, and work computers
+    * Led a team of 4 student engineers in brainstorming, planning, and accomplishing 40+ projects
+    * Documented the processes of creating and maintaining 25+ different projects and services
+
+* <u>**Officer, BYU Cybersecurity Student Association**</u>	(Apr 2021 – Present)
+    * Led BYU's competitive penetration team in weekly training meetings and competitions
+    * Created and taught [a dozen lessons](https://github.com/BYU-CSA/ctf-training) focused on teaching beginners foundational CTF skills
+    * Taught monthly interactive lessons to BYU students about offensive security and penetration testing
+
+# Skills & Tools
+* <u>**General**</u> - Linux, Windows, TCP/IP Networking, Virtualization/Docker/Kubernetes
+* <u>**Programming/Scripting**</u> - Python, PHP, SQL, JavaScript, Bash, C, Assembly
+* <u>**Website/Network exploitation**</u> - Burp Suite, Python requests, Nmap, enum4linux
+* <u>**Penetration testing**</u> - Metasploit, Dradis, John the Ripper, Hashcat, Hydra
+* <u>**Reverse Engineering/Pwn**</u> - Ghidra, GDB, x64dbg, Python pwntools, Ropper
+* <u>**Digital Forensics**</u> - Wireshark, Autopsy, Volatility, FTK Imager
+* <u>**IT Management**</u> - Active Directory/Group Policy, WSUS, Ansible, Adlumin SIEM

@@ -7,10 +7,12 @@ check_update: true
 menus:
   - name: Home
     link: /
+  - name: CTF
+    link: /ctf/
+  - name: Security Research
+    link: /tags/security-research/
   - name: About
     link: /about/
-  - name: Resume
-    link: /resume/
   - name: Connect
     link: /connect/
 post:
