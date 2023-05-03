@@ -24,17 +24,17 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Member of [US Cyber Team](https://www.uscybergames.com/) to represent the United States in [ICC 2023](https://www.ic3.games/)
 * Individually placed 2nd in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2022
 * Individually placed 5th/6675 students in [NCL Individual CTF](https://nationalcyberleague.org/competition) in Fall 2022
-* Placed 7th/3926 student teams in [NCL Team CTF](https://nationalcyberleague.org/competition) in Fall 2022
-* Placed 1st in 4 cyber competitions
-* Placed 2nd in 6 cyber competitions
-* Placed 3rd in 3 cyber competitions
+* Placed 3rd/316 student teams in [NCL Team CTF [Experienced Bracket]](https://nationalcyberleague.org/competition) in Winter 2023
+* Placed 1st in 7 cyber competitions
+* Placed 2nd in 7 cyber competitions
+* Placed 3rd in 5 cyber competitions
 * Hosted 5 CTF competitions
-* Participated in over 70 CTFs since 2020
+* Participated in over 75 CTFs since 2020
 
 
 # Education
 * <u>**Brigham Young University, Ira A. Fulton College of Engineering**</u> (April 2024)
-    * Bachelor in Cybersecurity (GPA of 3.77)
+    * Bachelor in Cybersecurity (GPA of 3.70)
     * Academic, Full-Tuition Scholarship
     * [Department of Defense SMART Scholar](https://www.smartscholarship.org/smart)
 
@@ -44,7 +44,11 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * [eLearnSecurity eJPTv1](https://elearnsecurity.com/verify-certificate/) (Credential ID 3886217)
 
 # Experience
-* <u>**Security Engineer and Engineering Team Lead, BYU Life Sciences IT**</u> (Aug 2021 – Present)
+* <u>**Instructor/Teaching Assistant, BYU College of Engineering**</u> (April 2023 - Present)
+    * Designed and will teach a 500-level University course at Brigham Young University
+    * Created and tested 10 labs for IT&C 515R, titled "Vulnerabilities, Exploitation, and Reverse Engineering"
+
+* <u>**Security Engineer and Engineering Team Lead, BYU Life Sciences IT**</u> (Aug 2021 – April 2023)
     * Designed, implemented, and containerized secure infrastructure of the largest college on campus
     * Resolved dozens of security threats and incidents across 1000+ servers, labs, and work computers
     * Led a team of 4 student engineers in brainstorming, planning, and accomplishing 40+ projects
@@ -62,4 +66,4 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * <u>**Penetration testing**</u> - Metasploit, Dradis, John the Ripper, Hashcat, Hydra
 * <u>**Reverse Engineering/Pwn**</u> - Ghidra, GDB, x64dbg, Python pwntools, Ropper
 * <u>**Digital Forensics**</u> - Wireshark, Autopsy, Volatility, FTK Imager
-* <u>**IT Management**</u> - Active Directory/Group Policy, WSUS, Ansible, Adlumin SIEM
+* <u>**IT Management**</u> - Active Directory/Group Policy, WSUS, Ansible
