@@ -52,6 +52,3 @@ I created [a Python script](https://github.com/Legoclones/pentesting-gl.inet/blo
 To use the scanner, run the command `python3 scanner.py <domain/IP>`, such as `python3 scanner.py 192.168.8.1`.
 
 *Note - this has only been tested on devices with firmware versions 3.x, not any 4.x devices*
-
-## Contributing
-If you see any errors or would like to contribute to this guide, feel free to make a pull request!
