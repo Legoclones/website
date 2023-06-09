@@ -26,8 +26,8 @@ In the course of reverse engineering the `/www/cgi-bin/api` binary, I found seve
 * [CVE-2023-31475](/2023/glinet-CVE-2023-31475/) (9.0, Critical) - the function `guci2_get()` found in `libglutil.so` has a buffer overflow vulnerability where an item is requested from a UCI context, and the value is pasted into a char pointer to a buffer without checking the size of the buffer.
 * [CVE-2023-31476](/2023/glinet-CVE-2023-31476/) (7.5, High) - an empty file can be created anywhere on the filesystem due to a filtered command injection vulnerability
 * [CVE-2023-31478](/2023/glinet-CVE-2023-31478/) (8.3, High) - the web GUI admin password can be retrieved through a single, unauthenticated POST request
-* [CVE-2023-XXXXX (currently unassigned)](/2023/glinet-CVE-2023-XXXX1/) (6.8, Medium) - all GL.iNET IoT devices use the same default self-signed HTTPS cert, allowing for a MITM attack
-* [CVE-2023-XXXXX (currently unassigned)](/2023/glinet-CVE-2023-XXXX2/) (5.3, Medium) - the authentication token is sent in a GET query string when exporting the server VPN config file
+* [CVE-2023-33620 (currently unassigned)](/2023/glinet-CVE-2023-33620/) (6.8, Medium) - all GL.iNET IoT devices use the same default self-signed HTTPS cert, allowing for a MITM attack
+* [CVE-2023-33621 (currently unassigned)](/2023/glinet-CVE-2023-33621/) (5.3, Medium) - the authentication token is sent in a GET query string when exporting the server VPN config file
 
 ## Informational Findings
 In addition to the CVEs published, there were other things I noticed and felt would be good to include here to guide anyone looking to red team or search for more vulnerabilities in these IoT devices. 

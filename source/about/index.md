@@ -20,7 +20,7 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 
 # Achievements
 * Placed 1st in DEFCON 30's AppSecVillage CTF
-* Published 8 CVEs ([CVE-2022-4271](https://huntr.dev/bounties/a11c922f-255a-412a-aa87-7f3bd7121599/), [CVE-2023-24261](/2023/glinet-CVE-2023-24261/), [CVE-2023-31472](/2023/glinet-CVE-2023-31472/), [CVE-2023-31475](/2023/glinet-CVE-2023-31475/), [CVE-2023-31476](/2023/glinet-CVE-2023-31476/), [CVE-2023-31478](/2023/glinet-CVE-2023-31478/), [CVE-2023-XXXXX (unassigned)](/2023/glinet-CVE-2023-XXXX1/), [CVE-2023-XXXXX (unassigned)](/2023/glinet-CVE-2023-XXXX2/))
+* Published 8 CVEs ([CVE-2022-4271](https://huntr.dev/bounties/a11c922f-255a-412a-aa87-7f3bd7121599/), [CVE-2023-24261](/2023/glinet-CVE-2023-24261/), [CVE-2023-31472](/2023/glinet-CVE-2023-31472/), [CVE-2023-31475](/2023/glinet-CVE-2023-31475/), [CVE-2023-31476](/2023/glinet-CVE-2023-31476/), [CVE-2023-31478](/2023/glinet-CVE-2023-31478/), [CVE-2023-33620](/2023/glinet-CVE-2023-33620/), [CVE-2023-33621](/2023/glinet-CVE-2023-33621/))
 * Member of [US Cyber Team](https://www.uscybergames.com/) to represent the United States in [ICC 2023](https://www.ic3.games/)
 * Individually placed 2nd in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2022
 * Individually placed 5th/6675 students in [NCL Individual CTF](https://nationalcyberleague.org/competition) in Fall 2022
