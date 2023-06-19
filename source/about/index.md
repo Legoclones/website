@@ -25,11 +25,11 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Individually placed 2nd in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2022
 * Individually placed 5th/6675 students in [NCL Individual CTF](https://nationalcyberleague.org/competition) in Fall 2022
 * Placed 3rd/316 student teams in [NCL Team CTF [Experienced Bracket]](https://nationalcyberleague.org/competition) in Winter 2023
-* Placed 1st in 7 cyber competitions
-* Placed 2nd in 7 cyber competitions
+* Placed 1st in 8 cyber competitions
+* Placed 2nd in 8 cyber competitions
 * Placed 3rd in 5 cyber competitions
-* Hosted 5 CTF competitions
-* Participated in over 75 CTFs since 2020
+* Hosted 6 CTF competitions
+* Participated in over 80 CTFs since 2020
 
 
 # Education
@@ -44,9 +44,11 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * [eLearnSecurity eJPTv1](https://elearnsecurity.com/verify-certificate/) (Credential ID 3886217)
 
 # Experience
-* <u>**Instructor/Teaching Assistant, BYU College of Engineering**</u> (April 2023 - Present)
+* <u>**Instructor/Teaching Assistant, BYU College of Engineering**</u> (April 2023 – Present)
     * Designed and will teach a 500-level University course at Brigham Young University
     * Created and tested 10 labs for IT&C 515R, titled "Vulnerabilities, Exploitation, and Reverse Engineering"
+
+* <u>**SMART Scholarship Intern, US Army Cyber Command**</u> (June 2023 – July 2023)
 
 * <u>**Security Engineer and Engineering Team Lead, BYU Life Sciences IT**</u> (Aug 2021 – April 2023)
     * Designed, implemented, and containerized secure infrastructure of the largest college on campus
