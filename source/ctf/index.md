@@ -24,7 +24,7 @@ Occasionally, I will make writeups that document solutions for challenges I've c
 ### Categories
 * [Binary Exploitation](/tags/pwn/) (2)
 * [Forensics](/tags/forensics/) (4)
-* [Jail](/tags/jail/) (5)
+* [Jail](/tags/jail/) (6)
 * [Miscellaneous](/tags/misc/) (2)
 * [Reverse Engineering](/tags/rev/) (5)
-* [Web Exploitation](/tags/web/) (8)
+* [Web Exploitation](/tags/web/) (9)
