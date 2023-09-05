@@ -168,7 +168,7 @@ After a while of playing around in the terminal, I remembered one very key idea 
 It would be backwards tho, let me explain. If we did `True/(_[False]=='a')`, then the denominator would evaluate to True, and the result would be `1/1`, so no error. **HOWEVER**, if the character was incorrect, then the result would be `1/0`, so an error was thrown. So now, we knew the character was correct if NO error was thrown.
 
 ### Scripting
-Some pretty heavy modifications were required to script this. In addition, instead of chaining together statements to get large numbers, I used the `while True` loop to my advantage and defined my own variables for numbers. I initially defined "primities":
+Some pretty heavy modifications were required to script this. In addition, instead of chaining together statements to get large numbers, I used the `while True` loop to my advantage and defined my own variables for numbers. I initially defined "primitives":
 
 ```python
 # base numbers
