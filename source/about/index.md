@@ -21,15 +21,15 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 # Achievements
 * Placed 1st in DEFCON 30's AppSecVillage CTF
 * Published 8 CVEs ([CVE-2022-4271](https://huntr.dev/bounties/a11c922f-255a-412a-aa87-7f3bd7121599/), [CVE-2023-24261](/2023/glinet-CVE-2023-24261/), [CVE-2023-31472](/2023/glinet-CVE-2023-31472/), [CVE-2023-31475](/2023/glinet-CVE-2023-31475/), [CVE-2023-31476](/2023/glinet-CVE-2023-31476/), [CVE-2023-31478](/2023/glinet-CVE-2023-31478/), [CVE-2023-33620](/2023/glinet-CVE-2023-33620/), [CVE-2023-33621](/2023/glinet-CVE-2023-33621/))
-* Member of [US Cyber Team](https://www.uscybergames.com/) to represent the United States in [ICC 2023](https://www.ic3.games/)
-* Individually placed 2nd in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2022
+* Member of [US Cyber Team](https://www.uscybergames.com/) to represent the United States in [ICC 2023 and 2024](https://www.ic3.games/)
+* Individually placed 1st in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2023
 * Individually placed 5th/6675 students in [NCL Individual CTF](https://nationalcyberleague.org/competition) in Fall 2022
 * Placed 3rd/316 student teams in [NCL Team CTF [Experienced Bracket]](https://nationalcyberleague.org/competition) in Winter 2023
-* Placed 1st in 8 cyber competitions
+* Placed 1st in 11 cyber competitions
 * Placed 2nd in 8 cyber competitions
-* Placed 3rd in 5 cyber competitions
-* Hosted 6 CTF competitions
-* Participated in over 80 CTFs since 2020
+* Placed 3rd in 7 cyber competitions
+* Hosted 8 CTF competitions
+* Participated in over 100 CTFs since 2020
 
 
 # Education
@@ -44,9 +44,10 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * [eLearnSecurity eJPTv1](https://elearnsecurity.com/verify-certificate/) (Credential ID 3886217)
 
 # Experience
-* <u>**Instructor/Teaching Assistant, BYU College of Engineering**</u> (April 2023 – Present)
-    * Designed and will teach a 500-level University course at Brigham Young University
-    * Created and tested 10 labs for IT&C 515R, titled "Vulnerabilities, Exploitation, and Reverse Engineering"
+* <u>**Instructor and Research Assistant, BYU College of Engineering**</u> (April 2023 – Present)
+    * Designed and taught curriculum for a 500-level University course at Brigham Young University
+    * Created and deployed 75 CTF problems for IT&C 515R, titled "Vulnerabilities, Exploitation, and Reverse Engineering"
+    * Taught lecture, designed tests, and graded all assignments for 18 students in the IT&C 515R class
 
 * <u>**SMART Scholarship Intern, US Army Cyber Command**</u> (June 2023 – July 2023)
 

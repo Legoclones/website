@@ -8,9 +8,10 @@ I have hosted or helped create challenges for several CTFs in the past, and deci
 ### Categories
 * [Binary Exploitation](https://github.com/Legoclones/created-ctf-challenges#binary-exploitation-pwn) (13)
 * [Cryptography](https://github.com/Legoclones/created-ctf-challenges#cryptography) (13)
-* [Forensics](https://github.com/Legoclones/created-ctf-challenges#forensics)  (10)
+* [Forensics](https://github.com/Legoclones/created-ctf-challenges#forensics)  (11)
 * [Jail](https://github.com/Legoclones/created-ctf-challenges#jail) (11)
 * [Miscellaneous](https://github.com/Legoclones/created-ctf-challenges#miscellaneous) (17)
+* [Network Exploitation](https://github.com/Legoclones/created-ctf-challenges#network-exploitation) (3)
 * [OSINT](https://github.com/Legoclones/created-ctf-challenges#OSINT) (6)
 * [Password Cracking](https://github.com/Legoclones/created-ctf-challenges#password-cracking) (9)
 * [Reverse Engineering](https://github.com/Legoclones/created-ctf-challenges#reverse-engineering) (19)
@@ -22,9 +23,9 @@ I have hosted or helped create challenges for several CTFs in the past, and deci
 Occasionally, I will make writeups that document solutions for challenges I've completed in past CTFs. These are typically unique or more difficult challenges that I would love to document my process of solving. 
 
 ### Categories
-* [Binary Exploitation](/tags/pwn/) (2)
+* [Binary Exploitation](/tags/pwn/) (5)
 * [Forensics](/tags/forensics/) (4)
 * [Jail](/tags/jail/) (6)
-* [Miscellaneous](/tags/misc/) (2)
+* [Miscellaneous](/tags/misc/) (3)
 * [Reverse Engineering](/tags/rev/) (5)
 * [Web Exploitation](/tags/web/) (9)
