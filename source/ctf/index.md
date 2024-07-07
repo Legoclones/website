@@ -27,5 +27,5 @@ Occasionally, I will make writeups that document solutions for challenges I've c
 * [Forensics](/tags/forensics/) (4)
 * [Jail](/tags/jail/) (6)
 * [Miscellaneous](/tags/misc/) (4)
-* [Reverse Engineering](/tags/rev/) (5)
+* [Reverse Engineering](/tags/rev/) (6)
 * [Web Exploitation](/tags/web/) (9)
