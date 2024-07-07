@@ -12,7 +12,6 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Binary exploitation (x86 and MIPS)
 * Offensive security research
 * Website exploitation
-* Offensive security research
 * Password cracking
 * FPS games
 * Star Wars and Sci-Fi
