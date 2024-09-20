@@ -23,7 +23,7 @@ I have hosted or helped create challenges for several CTFs in the past, and deci
 Occasionally, I will make writeups that document solutions for challenges I've completed in past CTFs. These are typically unique or more difficult challenges that I would love to document my process of solving. 
 
 ### Categories
-* [Binary Exploitation](/tags/pwn/) (5)
+* [Binary Exploitation](/tags/pwn/) (6)
 * [Blockchain](/tags/blockchain/) (2)
 * [Forensics](/tags/forensics/) (4)
 * [Jail](/tags/jail/) (6)

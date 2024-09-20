@@ -5,7 +5,7 @@ title: About Me/Resume
 # Biography
 I go by the handle "Legoclones", which I've had since a tween when I was VERY interested in LEGOs and clone troopers. I'm a cybersecurity student (both at BYU and for life) and love the challenge that cyber presents. I'm initiative-driven, detail-focused, and highly motivated to learn and contribute to the InfoSec community. I'm technical by nature, which is why I've felt naturally drawn to CTFs. 
 
-I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the Department of Defense, and also a member of the [US Cyber Team](https://www.uscybergames.com/) which competes internationally in cyber competitions. I also play CTFs with my school team [BYU Cyberia](https://ctftime.org/team/155711), and the international team [Project Sekai](https://ctftime.org/team/169557). Cyber competitions are my bread and butter, and I love pushing myself to improve.
+I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the Department of Defense, and also a member of the [US Cyber Team](https://www.uscybergames.com/) which competes internationally in cyber competitions. I also play CTFs with my school team [BYU Cyberia](https://ctftime.org/team/155711), and used to play for the international team [Project Sekai](https://ctftime.org/team/169557). Cyber competitions are my bread and butter, and I love pushing myself to improve.
 
 # Interests
 * IoT vulnerability research
@@ -13,13 +13,14 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Offensive security research
 * Website exploitation
 * Password cracking
-* FPS games
+* Video games
 * Star Wars and Sci-Fi
 * Action and military movies
 * Soccer
 
 # Achievements
 * Placed 1st in DEFCON 30's AppSecVillage CTF
+* Placed 2nd in DEFCON 32's Embedded Systems Village CTF
 * Published 17 CVEs 
     * [CVE-2022-4271](https://huntr.dev/bounties/a11c922f-255a-412a-aa87-7f3bd7121599/)
     * [CVE-2023-24261](/2023/glinet-CVE-2023-24261/), [31472](/2023/glinet-CVE-2023-31472/), [31475](/2023/glinet-CVE-2023-31475/), [31476](/2023/glinet-CVE-2023-31476/), [31478](/2023/glinet-CVE-2023-31478/), [33620](/2023/glinet-CVE-2023-33620/), [33621](/2023/glinet-CVE-2023-33621/)
