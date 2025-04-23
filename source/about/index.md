@@ -8,7 +8,7 @@ I go by the handle "Legoclones", which I've had since a tween when I was VERY in
 I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the Department of Defense, and was a member of the [US Cyber Team](https://www.uscybergames.com/) which competes internationally in cyber competitions. I also play CTFs with my school team [BYU Cyberia](https://ctftime.org/team/155711), and used to play for the international team [Project Sekai](https://ctftime.org/team/169557). Cyber competitions are my bread and butter, and I love pushing myself to improve.
 
 # Interests
-* IoT vulnerability research
+* IoT/embedded vulnerability research
 * Binary exploitation (x86 and MIPS)
 * Offensive security research
 * Website exploitation
@@ -29,7 +29,7 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * Former member of Project Sekai, one of the top 10 CTF teams in the world
 * Former member of [US Cyber Team](https://www.uscybergames.com/), which represented the United States in [ICC 2023 and 2024](https://www.ic3.games/)
 * Individually placed 1st in Utah-wide [SAINTCON Hacker's Challenge](https://saintcon.org/hackerschallenge/) 2023
-* Participated in 100+ CTFs and hosted 8 CTFs since 2020
+* Participated in 120+ CTFs and hosted 10 CTFs since 2020
 
 
 # Education
@@ -66,4 +66,3 @@ I'm currently a [SMART Scholar](https://www.smartscholarship.org/smart) for the 
 * <u>**General**</u> - Linux, Windows, Networking, Virtualization/Docker/Kubernetes
 * <u>**Programming/Scripting**</u> - Python, PHP, SQL, JavaScript, Bash, C, x86, MIPS
 * <u>**Reverse Engineering/Pwn**</u> - Ghidra, GDB, x64dbg, Python pwntools, Ropper
-* <u>**Digital Forensics**</u> - Wireshark, Autopsy, Volatility
