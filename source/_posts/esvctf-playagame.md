@@ -1,5 +1,5 @@
 ---
-title: Writeup - Let's Play a Game (ESVCTF 2023)
+title: Writeup - Let's Play a Game (ESVCTF 2024)
 date: 2024-08-14 00:00:01
 tags: 
 - writeup
