@@ -1,7 +1,46 @@
 <div class="site-footer gt-c-content-color-first">
     <div class="footer-main">
-        <!-- 建议保留版权信息或者添加主题信息到友链，感谢您的理解 -->
-        <!-- 文件位置：layout/_includes/footer.ejs -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.9.0/styles/stackoverflow-dark.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
+        <script>
+            let pres = [];
+            for (const el of document.querySelectorAll('td.code')) {
+                let codeText = '';
+                for (const span of el.querySelectorAll('span.line')) {
+                    codeText += span.textContent + '\n';
+                }
+
+                const pre = document.createElement('pre');
+                pre.style.padding = '0.6em 1em';
+                pre.style.marginBottom = '0';
+                pre.style.borderBottom = '1px solid var(--border)';
+                pre.style.borderRight = '1px solid var(--border)';
+                const code = document.createElement('code');
+                code.textContent = codeText;
+                pre.appendChild(code);
+                el.replaceWith(pre);
+                pres.push(pre);
+            }
+            for (const figure of document.querySelectorAll('figure.highlight')) {
+                console.log(figure);
+                const langMatch = figure.className.match(/highlight\s+(\w+)/);
+                if (!langMatch) continue;
+
+                const lang = langMatch[1];
+                const pres = figure.querySelectorAll('pre');
+
+                if (pres.length >= 2) {
+                    const targetPre = pres[1];
+                    if (!targetPre.classList.contains(`language-${lang}`)) {
+                        console.log(`Adding language class ${lang} to pre element`);
+                        targetPre.classList.add(`language-${lang}`);
+                    }
+                }
+            }
+            for (const pre of pres) {
+                hljs.highlightElement(pre);
+            }
+        </script>
         <span style="text-align: right; float: right;">Theme <a 
             href="https://github.com/renbaoshuo/hexo-theme-pure" target="_blank">Pure</a> | Powered by <a 
             href="https://hexo.io" target="_blank">Hexo</a> and <a href="https://www.google.com/search?q=chocolate+chip+cookies&tbm=isch">Cookies</a></span>
