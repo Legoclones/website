@@ -176,7 +176,7 @@ password_handler_3001:   ELF 64-bit LSB executable, x86-64, version 1 (SYSV),
     statically linked, BuildID[sha1]=7e83b4b1368736dd6163525931fdcf33e906ec77, stripped
 ```
 
-They both were stripped, statically-linked binaries and also both had the same protecttions:
+They both were stripped, statically-linked binaries and also both had the same protections:
 ```
 Arch:       amd64-64-little
 RELRO:      Partial RELRO
