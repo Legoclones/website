@@ -17,6 +17,8 @@ NCL stands for [National Cyber League](https://nationalcyberleague.org/), and it
 
 Individual/Team Games are 56 hours, going from 11am Friday MST to 7pm Sunday MST. You've got categories including OSINT, cryptography, password cracking, log analysis, network traffic analysis, forensics, scanning & reconnaissance, enumeration and exploitation, and web exploitation. While there are a few "offensive" categories, I would consider it mostly a blue team CTF as that's what it focuses most on.
 
+Also, if you haven't done a real CTF before, I'd recommend you check out https://ctftime.org 👀
+
 ## Team
 Just as a quick note, we usually have 7 people on our team, but we ended up having 6 people on our team this last NCL. To win, I recommend a minimum of 5 fully committed players, but the more the merrier. We ensure that anyone doing NCL with us has the entire weekend booked months in advance. Outside of classes or like a 1-2 hour commitment that weekend, everyone is hunkered down in the basement of our lab together from the moment it starts until it's over. I always let them know from the start that that's how it goes - if someone is like "oh I'll pop in from like 3-5pm" or something, it's a no-go. Also since BYU is a religious school, no one is expected to compete on Sundays if they don't want to. Some of us will get together, others won't, each person gets to choose. The goal is to be done by then anyways 😂.
 
@@ -114,4 +116,4 @@ Isn't it one already? The whole purpose of the challenge is to ensure that they 
 
 Why does it make a difference? Exams are boring, CTFs are fun. Turning it into a randomly-generated-log-file problem that they have to write code that automatically parses and submits the solution is *fun*, and seeing it work on a server that gives you a flag in the right flag format *is addicting*. Doing it once on a static file is boring and feels like an exam.
 
-Don't agree with me? 1) **mad cuz bad**, and 2) you probably aren't a real CTF player.
+Again, I would highly recommend you check out https://ctftime.org to get exposure to more CTFs.
